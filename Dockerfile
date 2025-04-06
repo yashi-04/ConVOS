@@ -1,4 +1,4 @@
-# Use lightweight Alpine Linux as base
+# lightweight Alpine Linux as base
 FROM alpine:latest
 
 # Install required packages
@@ -11,7 +11,7 @@ RUN apk add --no-cache \
     nano \
     sudo
 
-# Create project directories
+# project directories
 RUN mkdir -p /vos/{config,scripts,fs}
 
 # Copy configuration files
