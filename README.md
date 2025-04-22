@@ -51,7 +51,7 @@ containerized-vos/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashi-04/VirtO.git
+   git clone https://github.com/yashi-04/ConVOS.git
    cd containerized-vos
    ```
 
