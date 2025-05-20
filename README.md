@@ -91,15 +91,15 @@ bash
 Copy  
 Edit  
 `chmod +x setup.sh`
-`./setup.sh   `
+`./setup.sh   `    
 🔹 Step 4: Build the Docker Image  
-bash  
-Copy  
+bash    
+Copy   
 Edit  
 `docker build -t convos-app`
 This uses the Dockerfile to create an image named convos-app.
-
-🔹 Step 5: Run the Container
+    
+🔹 Step 5: Run the Container  
 bash  
 Copy  
 Edit  
