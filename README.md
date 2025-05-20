@@ -91,7 +91,7 @@ bash
 Copy
 Edit
 chmod +x setup.sh
-./setup.sh
+./setup.sh   
 🔹 Step 4: Build the Docker Image
 bash
 Copy
